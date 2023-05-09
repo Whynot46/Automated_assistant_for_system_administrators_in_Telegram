@@ -4,8 +4,8 @@ from telebot.types import ReplyKeyboardRemove
 from openpyxl import load_workbook
 from datetime import datetime
 import os
-from markups import *
-from IDs import *
+from src.markups import *
+from src.IDs import *
 from sys import platform
 
 
