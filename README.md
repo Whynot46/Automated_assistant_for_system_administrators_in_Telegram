@@ -73,5 +73,6 @@ Paste the admin ID into the IDs.py file on the line " admin_id = " inside square
 Congratulations, you are wonderful!
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
 Thanks for downloading!
 My GitHub: https://github.com/Whynot46
